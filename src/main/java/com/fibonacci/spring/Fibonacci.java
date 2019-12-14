@@ -10,7 +10,7 @@ import java.math.BigInteger;
 import java.util.Arrays;
 
 /**
- * Handles Fibonacci calculations and ouput
+ * Handles Fibonacci calculations and output
  */
 @Controller
 public class Fibonacci {
