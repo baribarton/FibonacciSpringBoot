@@ -1,5 +1,5 @@
 # FibonacciSpringBoot
-Very simple web service that displays Fibonacci number
+Very simple web service that displays Fibonacci numbers
 
 You can run this two ways:
 
